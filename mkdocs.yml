@@ -17,9 +17,6 @@ theme:
   name: material
   language: es
 
-  logo: assets/logo.png          # Opcional (añade si tienes logo)
-  favicon: assets/favicon.png    # Opcional
-
   palette:
     - scheme: default
       primary: indigo
